@@ -1,0 +1,14 @@
+{
+        "user": [
+                {
+                        "username": "jen",
+                        "password": "Jen24@",
+                        "profile": {
+                                "description": "Happiness is being alone with our own thought",
+                                "Date_of_Birth": "24-12-2002",
+                                "Hobbies": "reading comics",
+                                "Gender": "f"
+                        }
+                }
+        ]
+}
